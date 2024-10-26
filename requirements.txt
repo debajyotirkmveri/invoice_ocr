@@ -1,0 +1,5 @@
+pdf2image
+poppler-utils  # Required for pdf2image
+tesseract-ocr
+pytesseract
+pymupdf
